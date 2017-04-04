@@ -1,3 +1,3 @@
 # ArgumentParser
 
-$python arg.py <argument>
+$python arg.py World
